@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/ZykoBotz-MD' // github
-global.sgc = 'https://chat.whatsapp.com/EuRW5GTkIm7Got8ncaiI6X' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://youtu.be/opYCnFLe3OI' // my youtube channel
+global.sig = 'https://instagram.com/esacsr' // ig
+global.sgh = 'https://github.com/DreamLikeAmonster' // github
+global.sgc = 'https://chat.whatsapp.com/BWjq9kTxhDcAFgtCIrfP6N' // group whatsapp
+global.sdc = '-'//discord
+global.snh = '-' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276' //dana
-global.povo = '0852 1264 9276' //ovo
-global.pgopay = '0852 1264 9276' //gopay
-global.plinkaja = '0852 1264 9276' //link aja
-global.ppulsa = '0852 1264 9276' //telkomsel
-global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '087889347327' //dana
+global.povo = '087889347327' //ovo
+global.pgopay = '087889347327' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '087889347327' //telkomsel
+global.ppulsa2 = '085842505458' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/akarinaraaa'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124046059'
-global.nomorown = '6283133329293'
-global.namebot = 'ZYKO BOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nomorbot = '6285842505458'
+global.nomorown = '6287889347327'
+global.namebot = 'あきら'
+global.nameown = 'Melina'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'ZykoBotz-MD' // nama github lu
+global.namagithub = 'DreamLikeAmonster' // nama github lu
 global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -77,15 +77,15 @@ global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6287889347327', 'Melina', true],
+  ['6285842505458', 'あきら ', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = ['6287889347327'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -147,14 +147,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZYKO BOTZ MD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKO BOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ ZYKO BOTZ MD"
+global.wm = '                「 あきら 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ あきら ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ あきら"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "ZYKO MD 乂 ZYKO BOTZ MD"
+global.author = "あきら"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -170,7 +170,7 @@ global.thumb = ImgEstetik() //Main Thumbnail
 global.imagebot = ImgMountain()
 global.giflogo = VideoGalau()
 global.thumbs = ImgBoneka()
-global.fla = 'https://telegra.ph/file/9cc48b21c6eda65133682.jpg'
+global.fla = 'https://telegra.ph/file/bd5f601df145b4dfd5606.jpg'
 global.thumbnailUrl = ImgBoneka()
 global.emojis = pickRandom(["🀄️",
 "🃏",
